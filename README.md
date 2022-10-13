@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kthomp2508
-- 👀 I’m interested in ... starting to code again, working on simple projects
-- 🌱 I’m currently learning ... the basics of coding
+- 👀 I’m interested in ... coding, gaming, crochet and knitting
+- 🌱 I’m currently learning ... advanced knowledge of CSS, HTML, JavaScript, Responsive, and soon React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... thompsonkathleen2508@gmail.com
 
 <!---
 Kthomp2508/Kthomp2508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
